@@ -1,0 +1,16 @@
+2017-03-10 15:37:33: Expanded '%GSDISK%/AssetBrowser' to 'I:/AssetBrowser'
+2017-03-10 15:37:33: -- Analysis Started by User
+2017-03-10 15:37:33: Changes: 6, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 138
+2017-03-10 15:37:33: Right to Left: Copy File: 6 
+2017-03-10 15:37:33: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2017-03-10 15:37:33: 
+2017-03-10 15:37:45: Expanded '%GSDISK%/AssetBrowser' to 'I:/AssetBrowser'
+2017-03-10 15:37:45: == Sync Started by User
+2017-03-10 15:37:45: Copy Over 'I:/AssetBrowser/app/app-release.apk' -> 'C:/Android/Projects/AssetBrowser/app/app-release.apk'
+2017-03-10 15:37:45: Copy Over 'I:/AssetBrowser/app/app.iml' -> 'C:/Android/Projects/AssetBrowser/app/app.iml'
+2017-03-10 15:37:45: Copy Over 'I:/AssetBrowser/app/src/main/java/com/egps/ict/assetbrowser/DBAdapter.java' -> 'C:/Android/Projects/AssetBrowser/app/src/main/java/com/egps/ict/assetbrowser/DBAdapter.java'
+2017-03-10 15:37:45: Copy Over 'I:/AssetBrowser/app/src/main/java/com/egps/ict/assetbrowser/SearchActivity.java' -> 'C:/Android/Projects/AssetBrowser/app/src/main/java/com/egps/ict/assetbrowser/SearchActivity.java'
+2017-03-10 15:37:45: Copy Over 'I:/AssetBrowser/app/src/main/res/layout/activity_about.xml' -> 'C:/Android/Projects/AssetBrowser/app/src/main/res/layout/activity_about.xml'
+2017-03-10 15:37:45: Copy Over 'I:/AssetBrowser/app/src/main/res/layout/content_search.xml' -> 'C:/Android/Projects/AssetBrowser/app/src/main/res/layout/content_search.xml'
+2017-03-10 15:37:46: == Sync Complete. Time: 00:00:01, Speed: 0 bytes/s, OK: 6, Errors: 0
+2017-03-10 15:37:46: 
